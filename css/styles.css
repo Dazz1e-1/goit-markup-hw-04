@@ -448,10 +448,6 @@ img {
   align-items: baseline;
 }
 
-.social-wrap .social-icon {
-  width: 24px;
-  height: 24px;
-}
 .footer-item .social-linl:hover,
 .footer-item .social-linl:focus {
   background-color: #31d0aa;
