@@ -447,7 +447,8 @@ img {
   display: flex;
   align-items: baseline;
 }
-.footer-item .social-icon {
+
+.social-wrap .social-icon {
   width: 24px;
   height: 24px;
 }
