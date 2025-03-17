@@ -303,8 +303,8 @@ img {
 }
 .social-linl-list {
   display: flex;
-  gap: 24px;
   justify-content: center;
+  gap: 24px;
 }
 .social-list {
   width: 40px;
