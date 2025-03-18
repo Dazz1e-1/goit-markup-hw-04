@@ -85,14 +85,16 @@ img {
 .logo .studio {
   color: #2e2f42;
 }
-
+.header-link.part:hover,
+.header-link.part:focus,
 .header-link:hover,
 .header-link:focus {
   color: #404bbf;
 }
+.header-link.part,
 .header-link {
   position: relative;
-  color: #404bbf;
+  color: #2e2f42;
   padding: 24px 0;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
