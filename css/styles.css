@@ -130,7 +130,7 @@ img {
 }
 .header-link:hover::after,
 .header-link:focus::after,
-.header-link .part:hover::after {
+.header-link.part:hover::after {
   opacity: 1;
 }
 .address-link {
@@ -239,7 +239,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  margin-top: 8px;
 }
 .section-two .text {
   font-size: 16px;
