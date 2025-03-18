@@ -106,6 +106,9 @@ img {
   color: #2e2f42;
   position: relative;
 }
+.header-link.part {
+  color: #404bbf;
+}
 .header-link.part::after {
   content: '';
   position: absolute;
